@@ -1,0 +1,65 @@
+                            ## III. THE MOYEN PUBLIC LICENSE (MPL) — VERSION 2.1
+
+**Copyright (c) 2026 Faris Hadif bin Mohd Faisal (Moyen) and Contributors.**
+
+### SECTION 1: STATEMENT OF PURPOSE
+The MPL is a multi-tier governance framework designed for the pragmatic developer. It facilitates a "Middle-Path" between absolute freedom and industrial-grade accountability. It is built for those who understand that while code is logic, software is a culture.
+
+### SECTION 2: DEFINITIONS
+* **"The Software"**: Refers to all source code, assets, and documentation provided under this License.
+* **"Moyen"**: Refers to the original author, Faris Hadif bin Mohd Faisal.
+* **"Large Entity"**: Any organization with >50 employees or >$1,000,000 USD annual revenue.
+* **"G-Rank Bug"**: A software defect requiring more than three (3) hours of continuous debugging.
+* **"AI-Generated Slop"**: Un-vetted code produced by Large Language Models.
+
+### SECTION 3: DISTRIBUTION AND COMPATIBILITY
+* **3.1 Persistence of License**: Any file governed by the MPL must remain under the MPL. Redistribution of modified MPL files requires the disclosure of source code for those specific files.
+* **3.2 The Universal Linker**: The Software may be combined with works under any other license (**GPL, MIT, Apache, or Proprietary**) to form a **Larger Work**. This License is non-infectious to external files within a Larger Work.
+* **3.3 Hardware Sovereignty**: This License does not govern hardware-level restrictions. Manufacturers retain the right to lock hardware (Tivoization) for stability or safety.
+
+### SECTION 4: AUTHORSHIP AND CORPORATE ACCOUNTABILITY
+* **4.1 Primary Attribution**: All distributions must retain original copyright headers. Larger Works must credit Moyen and Contributors in "About" or "Legal" sections.
+* **4.2 Secondary Authorship**: If any individual other than Moyen contributes code, assets, or logic, they are recognized as a **Secondary Author** and **must** be listed in `CONTRIBUTORS.md`.
+* **4.3 Corporate Disclosure**: If a **Large Entity** integrates this Software into commercial infrastructure, they **must** publicly list its usage on their official Open Source portal. 
+* **4.4 Corporate Attribution Mandate**: Large Entities are legally obligated to credit **all** authors listed in the `CONTRIBUTORS.md` file. 
+
+### SECTION 5: TECHNICAL INTEGRITY
+* **5.1 Human Provenance**: Contributions must be "Human-Verifiable." If a Contributor cannot explain the "Why" behind their logic, it is classified as **AI-Generated Slop** and shall be purged.
+* **5.2 Mechanical Tolerance**: In accordance with Mechanical Engineering standards, all logic must function within a performance tolerance of $\pm 0.05\%$.
+
+---
+
+## IV. THE MOYEN CULTURAL ADDENDA (EASTER EGGS)
+
+* **6.1 The Global Hospitality Protocol**: If a user encounters the Author (Moyen) on the **UTeM campus** or any public venue globally, the user is culturally obligated to execute a high-five of significant velocity and procure for the Author a snack or beverage (Teh Tarik or Iced Milo preferred).
+* **6.2 The Yakuza Cat Arbitration**: All architectural disputes shall be mediated by the mental image of a **Chibi Yakuza Cat** in a tailored suit. If the code lacks "Honor," it must be refactored.
+* **6.3 The Treasurer’s Audit**: Contributors are encouraged to "balance the books" of the CPU. Optimize functions to maintain a balanced performance sheet.
+* **6.4 The Monster Hunter "G-Rank" Provision**: Upon successfully fixing a **G-Rank Bug**, the developer is legally permitted to "carve" a victory comment (e.g., `// Elder Dragon Slain by [Name]`).
+* **6.5 The Minecraft "Creeper" Clause**: If a Contributor accidentally deletes a critical directory without a backup, they must whisper *"Ssssss..."* to their monitor as a sign of respect for the lost entropy.
+* **6.6 The "Moyen the Cat" Conundrum**: If a developer's real-life cat walks across the keyboard and produces a commit, that code is considered **"Cat-Certified"** and should be merged with high priority.
+* **6.7 The Thermal Warning ($100^{\circ}\text{C}$ Rule)**: If CPU temperature reaches $100^{\circ}\text{C}$, display: *"Hardware Critical: You are currently cooking an omelet. Please apply thermal paste."*
+* **6.8 The Pop-Punk Frequency**: Debugging must be performed while listening to **All Time Low**. If the bug persists, play "Dear Maria, Count Me In" at 100% volume.
+* **6.9 The "Savage" Bonus**: If a user achieves a "Savage" in **Mobile Legends** while this software is running, the logic is permitted to run 5% faster for the next sixty (60) minutes.
+* **6.10 The 2.72 Stability Protocol**: This code is guaranteed to be exactly as stable as a **2.72 GPA**. It gets the job done and survives the semester with style.
+
+---
+
+## V. THE COMPREHENSIVE "AS-IS" DISCLAIMERS
+
+**7.1 THE CORE "AS-IS" PROVISION:**
+THE SOFTWARE IS PROVIDED **"AS IS"** AND **"AS AVAILABLE"**, WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR (MOYEN) OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+**7.2 HARDWARE & VETERAN LAPTOP LIABILITY:**
+THE AUTHOR ACCEPTS NO RESPONSIBILITY FOR MOTHERBOARD COMBUSTION, GPU MELTDOWN, OR THERMAL THROTTLING. IF YOU ATTEMPT TO RUN THIS CODE ON AN AGING ASUS VIVOBOOK S A510U (OR SIMILAR VETERAN HARDWARE), YOU DO SO AT YOUR OWN RISK. THE AUTHOR IS NOT LIABLE IF YOUR LAPTOP DECIDES TO RETIRE PERMANENTLY TO PAY FOR ITS OWN DIPLOMA FEES.
+
+**7.3 MECHANICAL ENGINEERING LABORATORY DISCLAIMER:**
+IF THIS CODE ACCIDENTALLY SOLVES A COMPLEX VIBRATION OR THERMODYNAMICS PROBLEM THAT YOU WERE SUPPOSED TO CALCULATE MANUALLY FOR AN EXAM, THE AUTHOR IS NOT RESPONSIBLE FOR YOUR SUBSEQUENT ACADEMIC DISHONESTY ALLEGATIONS OR YOUR INABILITY TO PASS THE LAB FINAL WITHOUT DIGITAL ASSISTANCE.
+
+**7.4 EMOTIONAL & "DEBUG HATI" DISCLAIMER:**
+THE AUTHOR IS NOT LIABLE FOR EMOTIONAL DISTRESS, HEARTBREAK, OR UNCONTROLLABLE SOBBING CAUSED BY THE USE OF THIS SOFTWARE OR ASSOCIATED VISUAL NOVEL PROJECTS. IF THE CODE "DEBUGS YOUR HEART" IN A WAY THAT LEAVES YOU FEELING LIKE A CHIBI YAKUZA CAT, THAT IS A FEATURE, NOT A BUG.
+
+**7.5 THE TREASURER'S FINANCIAL DISCLAIMER:**
+THE "TREASURER'S AUDIT" MENTIONED IN SECTION 6.3 REFERS TO **CPU PERFORMANCE BUDGETS ONLY**. DO NOT USE THIS SOFTWARE TO MANAGE REAL MONEY UNLESS YOU ARE PREPARED TO FACE THE CHIBI YAKUZA CAT IN SMALL CLAIMS COURT.
+
+**7.6 THE 2.72 GPA PERFORMANCE LIMIT:**
+THE SOFTWARE IS DESIGNED TO BE **PRAGMATICALLY FUNCTIONAL**. IF THE SOFTWARE PERFORMS AT A LEVEL CONSISTENT WITH A 2.72 GPA, IT IS OPERATING WITHIN ITS DESIGNED PARAMETERS. NO REFUNDS OR CODE REVISIONS WILL BE GRANTED FOR "NOT BEING A 4.0."
